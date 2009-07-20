@@ -1,4 +1,4 @@
-#labels Usage
+#labels Usage,Featured
 = 快捷鍵 =
 
   * Ctrl_Q 離開
