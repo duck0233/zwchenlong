@@ -6,7 +6,7 @@
   * ［F10］天盤
   * ［F11］地盤
   * ［F12］人盤
-  * Y/Shift_Y (Year)起盤後即時加／減年份
-  * M/Shift_M (Month)起盤後即時加／減月份
-  * D/Shift_D (Day)起盤後即時加／減日子
-  * H/SHift_H (Hour)起盤後即時加／減時辰
+  * J/Shift_J (Year)起盤後即時加／減年份
+  * K/Shift_K (Month)起盤後即時加／減月份
+  * L/Shift_L (Day)起盤後即時加／減日子
+  * ;/SHift_; (Hour)起盤後即時加／減時辰
