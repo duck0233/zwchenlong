@@ -5,6 +5,8 @@
   * Ctrl_I 調出時辰輸入框
   * Ctrl_D 選擇字體
   * Ctrl_B 選擇底色
+  * Ctrl P 列印
+  * Ctrl Shift P 預覽列印
   * ［F10］天盤
   * ［F11］地盤
   * ［F12］人盤
