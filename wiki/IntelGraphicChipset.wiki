@@ -7,10 +7,9 @@
 
 另，如是使用Intel Graphic Chipset，於Ubuntu 9.10所提供的Intel driver (server-xorg-video-intel (2:2.9.0-1ubuntu2))並無法顯示程式字型。以下為解決方法：
 
-add-apt-repository ppa:xorg-edgers/ppa
-apt-get update
-apt-get upgrade
-
+  # add-apt-repository ppa:xorg-edgers/ppa
+  # apt-get update
+  # apt-get upgrade
 
 又，測試時發現Linux下需安裝[http://mingliu.myweb.hinet.net/MingLiu/MingLiU.zip 「新細明體」]才能正常顯示中文。
 
