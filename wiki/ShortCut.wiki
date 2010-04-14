@@ -7,6 +7,7 @@
   * Ctrl_B 選擇底色
   * Ctrl Shift S 存成圖像
   * Ctrl P 列印
+  * Ctrl G 列印命盤格線
   * Ctrl Shift P 預覽列印
   * ［F10］天盤
   * ［F11］地盤
