@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= 下載方法 =
+<wiki:video url="http://www.youtube.com/watch?v=Gw0emM27Xio&feature=channel"/>
+
+= 輸入時辰、列印及輸出 =
+<wiki:video url="http://www.youtube.com/watch?v=Vp6kl7OCu0I" />
