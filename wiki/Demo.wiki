@@ -1,5 +1,17 @@
 = 下載方法 =
-<wiki:video url="http://www.youtube.com/watch?v=Gw0emM27Xio&feature=channel"/>
+<wiki:video url="http://www.youtube.com/watch?v=Gw0emM27Xio"/>
 
 = 輸入時辰、列印及輸出 =
 <wiki:video url="http://www.youtube.com/watch?v=Vp6kl7OCu0I" />
+
+= 童限模式 =
+<wiki:video url="http://www.youtube.com/watch?v=TdX2DtNFSWo" />
+
+= 介紹大運、流年、流月、流日及流時操作 =
+<wiki:video url="http://www.youtube.com/watch?v=fOU5azr26y8" />
+
+= 介紹即時更改命主資料相關快捷鍵 =
+<wiki:video url="http://www.youtube.com/watch?v=SGEtleClu_w" />
+
+= 介紹顯示／隱藏星曜及時辰相關快捷健 =
+<wiki:video url="http://www.youtube.com/watch?v=ZyxhO7iunBQ" />
