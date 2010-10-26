@@ -1,5 +1,5 @@
 #labels Phase-Requirements,Featured
 = 系統要求 =
-　　操作系統需支援.Net Framework。Linux系統可安裝[http://mono-project.com/Main_Page Mono]；Microsoft Windows XP或以前可安裝[http://www.microsoft.com/NET .Net Framework]。
+　　操作系統需支援.Net Framework。Linux系統可安裝[http://mono-project.com/Main_Page Mono]；Microsoft Windows XP或以前可安裝[http://www.microsoft.com/downloads/en/details.aspx?FamilyId=333325fd-ae52-4e35-b531-508d977d32a6&displaylang=en .Net Framework]。
 
 　　本程式已在Ubuntu 9.10、Windows XP及Windows Vista下測試運行無誤。 
