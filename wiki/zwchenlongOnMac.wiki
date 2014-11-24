@@ -3,7 +3,7 @@
 詳述在Macs OS上安裝排盤程式步驟
 
 
-= Details =
+= 步驟 =
 
 1. 先到這裡下載並安裝好Mono Framwork:
 
