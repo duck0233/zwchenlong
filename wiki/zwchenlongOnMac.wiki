@@ -1,0 +1,20 @@
+= 如何在Mac OS上使用排盤程式 =
+
+詳述在Macs OS上安裝排盤程式步驟
+
+
+= Details =
+
+1. 先到這裡下載並安裝好Mono Framwork:
+
+https://www.dropbox.com/s/wrjnv7p8zj1rh5u/MonoFramework-MDK-3.10.0.26.macos10.xamarin.x86.pkg?dl=0
+
+
+2. 下載排盤程式並解壓到Desktop，解壓目錄名稱為zwchenlong
+
+3. 打開Terminal (Application -> Utilities -> Terminal)
+
+4. 在Terminal輸入:
+
+cd ~/Desktop/zwchenlong
+mono zwchenlong.com
