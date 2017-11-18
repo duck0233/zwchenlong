@@ -2,6 +2,7 @@
 
 詳述在Macs OS上安裝排盤程式步驟
 
+4.x以後的Mono並不支援中文字，故要使用3.x版本的Mono Runtime。
 
 = 步驟 =
 
