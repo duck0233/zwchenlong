@@ -7,7 +7,7 @@
 
 1. 先到這裡下載並安裝好Mono Framwork:
 
-https://www.dropbox.com/s/wrjnv7p8zj1rh5u/MonoFramework-MDK-3.10.0.26.macos10.xamarin.x86.pkg?dl=0
+https://download.mono-project.com/archive/3.10.0/macos-10-x86/MonoFramework-MRE-3.10.0.31.macos10.xamarin.x86.pkg
 
 
 2. 下載排盤程式並解壓到Desktop，解壓目錄名稱為zwchenlong
@@ -15,6 +15,5 @@ https://www.dropbox.com/s/wrjnv7p8zj1rh5u/MonoFramework-MDK-3.10.0.26.macos10.xa
 3. 打開Terminal (Application -> Utilities -> Terminal)
 
 4. 在Terminal輸入:
-
-cd ~/Desktop/zwchenlong
-mono zwchenlong.com
+LC_CTYPE="en_US.UTF-8"
+/Library/Frameworks/Mono.framework/Commands/mono ~/Desktop/zwchenlong/zwchenlong.exe
